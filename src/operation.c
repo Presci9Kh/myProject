@@ -16,9 +16,3 @@ int mult(int a, int b)
     }
     return res;
 }
-
-int main(void)
-{
-    printf("3x2 = %d\n", mult(3,2));
-    return 0;
-}
